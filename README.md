@@ -1,3 +1,4 @@
+```bash
 # 00-git
 # Primeros pasos con git
 
@@ -22,7 +23,7 @@ git log            #permite ver el registro de commits (fecha, autor, commit mes
 
 git push    #subo mis nuevos commit a la nube
 
-
+```
 ## .gitignore
 Es un archivo que va en la misma carpeta donde arranca el proyecto (ubicación raíz)
 Permite aclarar qué archivos quiero que mantenga fuera del control de git
